@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1022023469688",
+    "firebase_url": "https://aa-color-switch.firebaseio.com",
+    "project_id": "aa-color-switch",
+    "storage_bucket": "aa-color-switch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022023469688:android:02d6cff9f4da91d8",
+        "android_client_info": {
+          "package_name": "com.ormisiclapps.aacolorswitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022023469688-p3k6o3crkubgdmkosv8fgin1no96f17k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ormisiclapps.aacolorswitch",
+            "certificate_hash": "8c50ea1f9afac154b51182c8ff44f67bd0683226"
+          }
+        },
+        {
+          "client_id": "1022023469688-e1ut3kte6qm4k8cm2gkuejuk1geb0oro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4m0YWfm3LUGv08p33kzqYB-54PTV5LSI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022023469688-e1ut3kte6qm4k8cm2gkuejuk1geb0oro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

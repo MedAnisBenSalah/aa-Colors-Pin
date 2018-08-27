@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://aa-color-switch.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">1022023469688</string>
+  <string name="google_storage_bucket" translatable="false">aa-color-switch.appspot.com</string>
+  <string name="project_id" translatable="false">aa-color-switch</string>
+  <string name="google_api_key" translatable="false">AIzaSyD4m0YWfm3LUGv08p33kzqYB-54PTV5LSI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD4m0YWfm3LUGv08p33kzqYB-54PTV5LSI</string>
+  <string name="google_app_id" translatable="false">1:1022023469688:android:02d6cff9f4da91d8</string>
+  <string name="default_web_client_id" translatable="false">1022023469688-e1ut3kte6qm4k8cm2gkuejuk1geb0oro.apps.googleusercontent.com</string>
+</resources>
